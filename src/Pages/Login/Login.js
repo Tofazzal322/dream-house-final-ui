@@ -19,7 +19,7 @@ const Login = () => {
   const { user, loginUser, signInWithGoogle, isLoading, authError } = useAuth();
 
   const location = useLocation();
-  const history = useNavigate();
+  const navigate = useNavigate();
 
   ////////////////////////  Login With User /////////////////////
   const handleOnChange = (e) => {
@@ -36,14 +36,14 @@ const Login = () => {
     const email = loginData?.email;
     const password = loginData?.password;
 
-    loginUser(email, password, location, history);
+    loginUser(email, password, location, navigate);
     e.preventDefault();
   };
   //////////////////////////////////////////////////
 
   /////////////////  Login with Google //////////////////
   const handleGoogleSignIn = () => {
-    signInWithGoogle(location, history);
+    signInWithGoogle(location, navigate);
   };
   ////////////////////////////////////////////////////////
   

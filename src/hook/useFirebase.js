@@ -25,7 +25,7 @@ const useFirebase = () => {
   const googleProvider = new GoogleAuthProvider();
 
   ///////////////////////// Register user and pass  ///////////////////////////////
-  const registerUser = (email, password, name, history) => {
+  const registerUser = (email, password, name, navigate) => {
     setIsLoading(true);
     createUserWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
@@ -41,7 +41,7 @@ const useFirebase = () => {
         })
           .then(() => {})
           .catch((error) => {});
-        history.replace("/home");
+        navigate("/home");
       })
       .catch((error) => {
         setAuthError(error.message);
@@ -51,13 +51,13 @@ const useFirebase = () => {
   };
 
   //////////////////////////// Sign in with user and pass //////////////////////////
-  const loginUser = ( email, password,location, history ) => {
+  const loginUser = ( email, password,location, navigate ) => {
     
     setIsLoading(true);
     signInWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
         const destination = location?.state?.from || "/home"; 
-        history.replace(destination);
+        navigate(destination);
         setAuthError('');
         const user = userCredential.user;
         console.log(user);
@@ -74,7 +74,7 @@ const useFirebase = () => {
   };
 
   /////////////////////// Sign in With Google ////////////////////////////
-  const signInWithGoogle = (location, history) => {
+  const signInWithGoogle = (location, navigate) => {
     setIsLoading(true);
     signInWithPopup(auth, googleProvider)
       .then((result) => {
@@ -82,7 +82,7 @@ const useFirebase = () => {
         saveGoogleUserToDatabase(user.email, user.displayName)
         setAuthError('');
         const destination = location?.state?.from || "/home";
-        history.replace(destination);
+        navigate(destination);
       })
       .catch((error) => {
         const errorCode = error.code;

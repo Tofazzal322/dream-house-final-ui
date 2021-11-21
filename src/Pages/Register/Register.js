@@ -9,7 +9,7 @@ import Button from "@restart/ui/esm/Button";
 
 const Register = () => {
   const [loginData, setLoginData] = useState({});
-  const history = useNavigate();
+  const navigate = useNavigate();
   const { user, registerUser, isLoading, authError } = useAuth();
 
   const handleOnBlur = (e) => {
@@ -24,7 +24,7 @@ const Register = () => {
       alert("Your password did not match");
       return;
     }
-    registerUser(loginData.email, loginData.password, loginData.name, history);
+    registerUser(loginData.email, loginData.password, loginData.name, navigate);
     e.preventDefault();
   };
   return (

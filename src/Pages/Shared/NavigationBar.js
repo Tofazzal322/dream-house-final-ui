@@ -32,11 +32,17 @@ const MenuBar = () => {
             >
               <HomeIcon /> Home
             </Nav.Link>
-
             <Nav.Link
               as={HashLink}
               className="nav-items text-light"
-              to="/fullProfile"
+              to="/partners"
+            >
+              Partners
+            </Nav.Link>
+            <Nav.Link
+              as={HashLink}
+              className="nav-items text-light"
+              to="/products"
             >
               Explore
             </Nav.Link>
@@ -44,13 +50,6 @@ const MenuBar = () => {
             <Nav.Link>
               {user?.email ? (
                 <div className="d-flex">
-                  <Nav.Link
-                    as={HashLink}
-                    className="nav-items text-light"
-                    to="/partners"
-                  >
-                    Partners
-                  </Nav.Link>
                   <Nav.Link
                     as={HashLink}
                     className="nav-items text-light"
