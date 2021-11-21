@@ -1,3 +1,167 @@
+[
+   {
+      "id":"1",
+      "name":"MOHAMMED MAMUN MIAH",
+      "live":"Bangladesh",
+      "phone":"01645001624",
+      "email":"mrmmng@gmail.com",
+      "address":"Village +post:chowria,p s:nabinagar, distric:brahmanbaria.",
+      "parmanentAddress":"Village +post:chowria,p s:nabinagar, distric:brahmanbaria",
+      "passport":"BN 0454020",
+      "amount":"55,000",
+      "picture":"https://i.ibb.co/8Y7RH0h/player-1.jpg"
+   },
+   {
+      "id":"2",
+      "name":"Mohammad Delwar Hossain ",
+      "live":"n/a",
+      "phone":"+6582316884",
+      "email":"arefin709@gmail.com",
+      "address":"House No:21,Road No:4,Hirajil,Siddhirganj,Siddhirganj,Narayangonj,Bangladesh ",
+      "parmanentAddress":"House No:21,Road No:4,Hirajil,Siddhirganj,Siddhirganj,Narayangonj,Bangladesh ",
+      "passport":"EE0516167",
+      "amount":"55,000",
+      "picture":"https://i.ibb.co/vXPt93M/player-2.jpg"
+   },
+   {
+      "id":"3",
+      "name":"MD TOWHIDUR RAHMAN ",
+      "live":"n/a",
+      "phone":"01623097135",
+      "email":"towhidur450@gmail.com",
+      "address":"Chowria,Nabinagar,Brahmanbaria,Bangladesh ",
+      "parmanentAddress":"Chowria,Nabinagar,Brahmanbaria,Bangladesh ",
+      "passport":"BT0621378",
+      "amount":"5000",
+      "picture":"https://i.ibb.co/P9BPfNn/MD-TOWHIDUR-RAHMAN.jpg"
+   },
+   {
+      "id":"4",
+      "name":"Arnob Mostazir",
+      "live":"United Kingdom",
+      "phone":"+447405119357",
+      "email":"arnobmostazir@gmail.com",
+      "address":"103/A gojmohol, sikaritola, Hazaribagh, Dhaka-1209",
+      "parmanentAddress":"103/A gojmohol, sikaritola, Hazaribagh, Dhaka-1209",
+      "passport":"YB0275162",
+      "amount":"60,000",
+      "picture":"https://i.ibb.co/rbXWy7D/player-5.jpg"
+   },
+   {
+      "id":"5",
+      "name":"Tofazzal",
+      "live":"Muscat, Oman",
+      "phone":"+968 93554255",
+      "email":"topuahammed322@gmail.com",
+      "address":"Mymensingh",
+      "parmanentAddress":"Dhobaura,Mymensingh",
+      "passport":"BE0323454",
+      "amount":"30,000",
+      "picture":"https://i.ibb.co/C0StJz3/12115467-900654660026415-277105587286767643-n.jpg"
+   },
+   {
+      "id":"6",
+      "name":"Farbiz Hossain Babul ",
+      "live":"Muscat, Oman",
+      "phone":"+96894878727",
+      "email":"mdfarbizbabu79@gmail.com",
+      "address":"Lakshipur ",
+      "parmanentAddress":"Lakshipur",
+      "passport":"AF5316244",
+      "amount":"30,000",
+      "picture":"https://i.ibb.co/j6tfsM4/player-6.jpg"
+   },
+   {
+      "id":"7",
+      "name":"Atikur rahman",
+      "live":"Rome,italy",
+      "phone":"00393279424911",
+      "email":"atikurrahman4090@gmail.com",
+      "address":"Chowria,Nabinagar,brahmanbaria ",
+      "parmanentAddress":"Chowria,Nabinagar,brahmanbaria ",
+      "passport":"EG0729205",
+      "amount":"55,000",
+      "picture":"src=\"https://ibb.co/Ky8GNXp\""
+   },
+   {
+      "id":"8",
+      "name":"Sk nasir",
+      "live":"Abu Dhabi ",
+      "phone":"0508317261",
+      "email":"sknasir66755@gmil.com",
+      "address":"Demra ",
+      "parmanentAddress":"Demra",
+      "passport":"AF3627515",
+      "amount":"60,000",
+      "picture":"https://i.ibb.co/6X3zpxJ/player-8.jpg"
+   },
+   {
+      "id":"9",
+      "name":"Rahad Asfaquzzaman",
+      "live":"Singapore ",
+      "phone":"+6584249658",
+      "email":"rahatkhan1781993@gmail.com",
+      "address":"Dhaka",
+      "parmanentAddress":"Dhaka",
+      "passport":"BT0584440",
+      "amount":"110,000",
+      "picture":"https://i.ibb.co/gy5fVnz/5-DED48-C6-1-DF1-4-B46-B1-B6-1-D4653-CA2-A77-Rahat-Khan.jpg"
+   },
+   {
+      "id":"10",
+      "name":"Md Saidul Islam",
+      "live":"Bangladesh",
+      "phone":"01623097135",
+      "email":"sinahid69@gmail.com",
+      "address":"Chowria, Nabinagar, B-Baria",
+      "parmanentAddress":"Chowria, Nabinagar, B-Baria",
+      "passport":"BY0297180",
+      "amount":"30,000",
+      "picture":"https://i.ibb.co/qy0dBP4/0-ECD7-A57-F792-4-F23-A663-38-F3-F5-D8-CB34-S-I-Nahid.jpg"
+   },
+   {
+      "id":"11",
+      "name":"MOHAMMAD SURUZZAMAN",
+      "live":"SOUTH AFRICA",
+      "phone":"00270610046980",
+      "email":"onlysrashed@gmail.com",
+      "address":"73 KRUIS STREET,  RAYBEN MANSION,  JOHANNESBURG, SOUTH AFRICA. ",
+      "parmanentAddress":"PAINADI,  HOUSE - 200, ROAD - 04, BLOCK - C, WORD - 01, MIZMIZI, SIDDHIRGANJ, NARAYANGANJ.",
+      "passport":"EF 0936264",
+      "amount":"60,000.",
+      "picture":"https://i.ibb.co/HgHvVC9/IMG-20210919-121141-SR-BD.jpg"
+   },
+   {
+      "id":"12",
+      "name":"Nahid-Towhid",
+      "live":"Bangladesh",
+      "phone":"01623097135",
+      "email":"sinahid69@gmail.com",
+      "address":"Chowria,Nabinagar, B-Baria",
+      "parmanentAddress":"Chowria,Nabinagar, B-Baria",
+      "passport":"BY 0297180",
+      "amount":"60,000",
+      "picture":"https://i.ibb.co/WBmjx0S/1-E1-B4-F4-C-2-E9-A-4401-BB46-4-D5-DE4-A2-B262-S-I-Nahid.jpg"
+   },
+   {
+      "id":"13",
+      "name":"Tofazzal",
+      "live":"Muscat, Oman",
+      "phone":"+968 93554255",
+      "email":"topuahammed322@gmail.com",
+      "address":"Mymensingh",
+      "parmanentAddress":"Dhobaura,Mymensingh",
+      "passport":"BE0323454",
+      "amount":"30,000",
+      "picture":"https://i.ibb.co/C0StJz3/12115467-900654660026415-277105587286767643-n.jpg"
+   }
+   
+]
+
+
+
+
+
 // https://i.ibb.co/sRt3gmY/7-A26-G0-P-LZHS-png-thumb-1280-1280.png
 // https://i.ibb.co/gJCpPDx/7-AXX-Bullet-01-png-thumb-1280-1280.png
 // https://i.ibb.co/Y0M7qx2/70-XX-Box-01-png-thumb-1280-1280.png
@@ -14,114 +178,115 @@
 
 
 
-[
-    {   "name":"4 MP  Box Camera",
-        "model":"DS-2CD7046G0-(AP)",
-        "description":"High quality imaging with 4 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light due to LightFighter technology",
-        "price":"79",
-        "productImg":"https://i.ibb.co/sRt3gmY/7-A26-G0-P-LZHS-png-thumb-1280-1280.png",
-        "productId":"3211",
-        "status":"pending"
+// [
+//     {   "name":"4 MP  Box Camera",
+//         "model":"DS-2CD7046G0-(AP)",
+//         "description":"High quality imaging with 4 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light due to LightFighter technology",
+//         "price":"79",
+//         "productImg":"https://i.ibb.co/sRt3gmY/7-A26-G0-P-LZHS-png-thumb-1280-1280.png",
+//         "productId":"3211",
+//         "status":"pending"
 
-    },
-    {
-        "name":"2 MP  Indoor Dome Camera",
-        "model":"iDS-2CD7026G0/E-i(AP)",
-        "description":"Advanced streaming technology enables smooth live view and data self-correction in poor network 5 streams and up to 5 custom streams to meet a wide variety of applications 6 behavior analyses, 3 exception detection, and face detectionWater and dust resistant and vandal proof (IP67 and IK10).",
-        "price":"100",
-        "productImg":"https://i.ibb.co/gJCpPDx/7-AXX-Bullet-01-png-thumb-1280-1280.png",
-        "productId":"3212",
-        "status":"pending"
-    },
-    {
-        "name":"2 MP  Bullet Camera",
-        "model":"DS-2CD7A26G0-IZ(H)S",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"124",
-        "productImg":"https://i.ibb.co/Y0M7qx2/70-XX-Box-01-png-thumb-1280-1280.png",
-        "productId":"3213",
-        "status":"pending"
-    },
-    {
-        "name":"2MP  Box With Housing Camera",
-        "model":"DS-2CD7046G0-(AP)",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"251",
-        "productImg":"https://i.ibb.co/cQ9wQ4W/71-XX-Dome-01-png-thumb-1280-1280.png",
-        "productId":"3214",
-        "status":"pending"
-    },
-    {
-        "name":"2MP DeepinView ANPR Box With Housing Camera",
-        "model":"iDS-2CD7026G0/EP-IHSY",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"410",
-        "productImg":"https://i.ibb.co/DY3RQRk/75-XX-Dome-03-jpg-thumb-1280-1280.jpg",
-        "productId":"3215",
-        "status":"pending"
-    },
-    {
-        "name":"2 MP  ANPR Moto Varifocal Bullet Camera",
-        "model":"DS-2CD7A26G0/P-LZ(H)",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"73",
-        "productImg":"https://i.ibb.co/vB1kmXx/1331-B-5-png-thumb-1280-1280.png",
-        "productId":"3216",
-        "status":"pending"
-    },
-    {
-        "name":"2 MP  Flow Analysis Indoor Dome Camera",
-        "model":"DS-2CD7126G0/L-IZS",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"510",
-        "productImg":"https://i.ibb.co/98ZZ5pM/1331-B-5-png-thumb-1280-1280.png",
-        "productId":"3217",
-        "status":"pending"
-    },
-    {
-        "name":"2 MP  Outdoor  Dome Camera",
-        "model":"DS-2CD7526G0-IZ(H)S",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"320",
-        "productImg":"https://i.ibb.co/cFQVySS/DF7-png-thumb-1280-1280.png",
-        "productId":"3218",
-        "status":"pending"
-    },
-    {
-        "name":"4 MP DeepinView Moto Varifocal Box Camera",
-        "model":"DS-2CD7046G0-(AP)",
-        "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
-        "price":"231",
-        "productImg":"https://i.ibb.co/s5f4Zkt/DS-2-XC6122-FWD-IS-35-png-thumb-1280-1280.png",
-        "productId":"3219",
-        "status":"pending"
-    },
-    {
-        "name":"7-inch 2 MP 32X  IR Network Speed Dome",
-        "model":"DS-2SE7C124IW-AE(32x/4)(S5)",
-        "description":"Progressive Scan CMOS Up to 2560× 1440@30fps resolution Min. illumination: [PTZ channel]：Color：0.005Lux @ (F1.2，GC ON),B/W：0.001Lux @ (F1.2，AGC ON) ,[panoramic channel]：0.005Lux @(F1.6,AGC ON) ,0 Lux with IR ",
-        "price":"1010",
-        "productImg":"https://i.ibb.co/w7HDvYC/45-png-thumb-1280-1280.png",
-        "productId":"3220",
-        "status":"pending"
-    },
-    {
-        "name":"7-inch 2 MP 25X DarkFighter IR Network Speed Dome",
-        "model":"DS-2DF7225IX-AELW(T3)",
-        "description":"Progressive Scan CMOS Up to 23X zoom: zoom to examine subjects of interest within expansive scenes resolution Min. illumination: [PTZ channel]：Color：0.005Lux @ (F1.2，GC ON),B/W：0.001Lux @ (F1.2，AGC ON) ,[panoramic channel]：0.005Lux @(F1.6,AGC ON) ,0 Lux with IR ",
-        "price":"1210",
-        "productImg":"https://i.ibb.co/kgV6ZZx/14-png-thumb-1280-1280.png",
-        "productId":"3221",
-        "status":"pending"
-    },
-    {
-        "name":"EXIR 23x Bullet Explosion-proof Network Camera",
-        "model":"DS-2DB4223I-CX",
-        "description":"Explosion-proof design: the camera has passed international ATEX & IECEx certifications, and can be used in gas and dust hazardous scenarios Protecting the camera from damage caused by sparks or corrosive materials",
-        "price":"710",
-        "productImg":"https://i.ibb.co/m8SZMtN/2-png-thumb-1280-1280.png",
-        "productId":"3222",
-        "status":"pending"
-    }
+//     },
+//     {
+//         "name":"2 MP  Indoor Dome Camera",
+//         "model":"iDS-2CD7026G0/E-i(AP)",
+//         "description":"Advanced streaming technology enables smooth live view and data self-correction in poor network 5 streams and up to 5 custom streams to meet a wide variety of applications 6 behavior analyses, 3 exception detection, and face detectionWater and dust resistant and vandal proof (IP67 and IK10).",
+//         "price":"100",
+//         "productImg":"https://i.ibb.co/gJCpPDx/7-AXX-Bullet-01-png-thumb-1280-1280.png",
+//         "productId":"3212",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"2 MP  Bullet Camera",
+//         "model":"DS-2CD7A26G0-IZ(H)S",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"124",
+//         "productImg":"https://i.ibb.co/Y0M7qx2/70-XX-Box-01-png-thumb-1280-1280.png",
+//         "productId":"3213",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"2MP  Box With Housing Camera",
+//         "model":"DS-2CD7046G0-(AP)",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"251",
+//         "productImg":"https://i.ibb.co/cQ9wQ4W/71-XX-Dome-01-png-thumb-1280-1280.png",
+//         "productId":"3214",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"2MP DeepinView ANPR Box With Housing Camera",
+//         "model":"iDS-2CD7026G0/EP-IHSY",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"410",
+//         "productImg":"https://i.ibb.co/DY3RQRk/75-XX-Dome-03-jpg-thumb-1280-1280.jpg",
+//         "productId":"3215",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"2 MP  ANPR Moto Varifocal Bullet Camera",
+//         "model":"DS-2CD7A26G0/P-LZ(H)",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"73",
+//         "productImg":"https://i.ibb.co/vB1kmXx/1331-B-5-png-thumb-1280-1280.png",
+//         "productId":"3216",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"2 MP  Flow Analysis Indoor Dome Camera",
+//         "model":"DS-2CD7126G0/L-IZS",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"510",
+//         "productImg":"https://i.ibb.co/98ZZ5pM/1331-B-5-png-thumb-1280-1280.png",
+//         "productId":"3217",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"2 MP  Outdoor  Dome Camera",
+//         "model":"DS-2CD7526G0-IZ(H)S",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"320",
+//         "productImg":"https://i.ibb.co/cFQVySS/DF7-png-thumb-1280-1280.png",
+//         "productId":"3218",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"4 MP DeepinView Moto Varifocal Box Camera",
+//         "model":"DS-2CD7046G0-(AP)",
+//         "description":"High quality imaging with 2 MP resolution Excellent low-light performance via DarkFighter technology Clear imaging against strong back light thanks to LightFighter technology Intelligent functions based on deep learning Efficient H.265+ compression technology to save bandwidth and storage",
+//         "price":"231",
+//         "productImg":"https://i.ibb.co/s5f4Zkt/DS-2-XC6122-FWD-IS-35-png-thumb-1280-1280.png",
+//         "productId":"3219",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"7-inch 2 MP 32X  IR Network Speed Dome",
+//         "model":"DS-2SE7C124IW-AE(32x/4)(S5)",
+//         "description":"Progressive Scan CMOS Up to 2560× 1440@30fps resolution Min. illumination: [PTZ channel]：Color：0.005Lux @ (F1.2，GC ON),B/W：0.001Lux @ (F1.2，AGC ON) ,[panoramic channel]：0.005Lux @(F1.6,AGC ON) ,0 Lux with IR ",
+//         "price":"1010",
+//         "productImg":"https://i.ibb.co/w7HDvYC/45-png-thumb-1280-1280.png",
+//         "productId":"3220",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"7-inch 2 MP 25X DarkFighter IR Network Speed Dome",
+//         "model":"DS-2DF7225IX-AELW(T3)",
+//         "description":"Progressive Scan CMOS Up to 23X zoom: zoom to examine subjects of interest within expansive scenes resolution Min. illumination: [PTZ channel]：Color：0.005Lux @ (F1.2，GC ON),B/W：0.001Lux @ (F1.2，AGC ON) ,[panoramic channel]：0.005Lux @(F1.6,AGC ON) ,0 Lux with IR ",
+//         "price":"1210",
+//         "productImg":"https://i.ibb.co/kgV6ZZx/14-png-thumb-1280-1280.png",
+//         "productId":"3221",
+//         "status":"pending"
+//     },
+//     {
+//         "name":"EXIR 23x Bullet Explosion-proof Network Camera",
+//         "model":"DS-2DB4223I-CX",
+//         "description":"Explosion-proof design: the camera has passed international ATEX & IECEx certifications, and can be used in gas and dust hazardous scenarios Protecting the camera from damage caused by sparks or corrosive materials",
+//         "price":"710",
+//         "productImg":"https://i.ibb.co/m8SZMtN/2-png-thumb-1280-1280.png",
+//         "productId":"3222",
+//         "status":"pending"
+//     }
 
-]
+// ]
+

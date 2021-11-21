@@ -20,7 +20,7 @@ const MenuBar = () => {
         <Container>
           <Navbar.Brand>
             <Link className="nav-brand text-light" to="/home">
-              Dream House 
+              Dream House
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle />
@@ -30,15 +30,7 @@ const MenuBar = () => {
               className="nav-items text-light"
               to="/home#banner"
             >
-             <HomeIcon/> Home
-            </Nav.Link>
-
-            <Nav.Link
-              as={HashLink}
-              className="nav-items text-light"
-              to="/products"
-            >
-              Products
+              <HomeIcon /> Home
             </Nav.Link>
 
             <Nav.Link
@@ -52,6 +44,13 @@ const MenuBar = () => {
             <Nav.Link>
               {user?.email ? (
                 <div className="d-flex">
+                  <Nav.Link
+                    as={HashLink}
+                    className="nav-items text-light"
+                    to="/partners"
+                  >
+                    Partners
+                  </Nav.Link>
                   <Nav.Link
                     as={HashLink}
                     className="nav-items text-light"

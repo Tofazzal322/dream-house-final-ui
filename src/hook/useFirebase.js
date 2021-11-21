@@ -41,7 +41,7 @@ const useFirebase = () => {
         })
           .then(() => {})
           .catch((error) => {});
-        history.replace("/");
+        history.replace("/home");
       })
       .catch((error) => {
         setAuthError(error.message);
@@ -56,7 +56,7 @@ const useFirebase = () => {
     setIsLoading(true);
     signInWithEmailAndPassword(auth, email, password)
       .then((userCredential) => {
-        const destination = location?.state?.from || "/dashboard"; 
+        const destination = location?.state?.from || "/home"; 
         history.replace(destination);
         setAuthError('');
         const user = userCredential.user;
@@ -81,7 +81,7 @@ const useFirebase = () => {
         const user = result.user;
         saveGoogleUserToDatabase(user.email, user.displayName)
         setAuthError('');
-        const destination = location?.state?.from || "/dashboard";
+        const destination = location?.state?.from || "/home";
         history.replace(destination);
       })
       .catch((error) => {
@@ -119,7 +119,7 @@ const useFirebase = () => {
 
   /////////////////////// Check Admin and   Admin Data Load  //////////////////////
   useEffect(() => {
-    fetch(`https://fathomless-shelf-34125.herokuapp.com/users/${user.email}`)
+    fetch(`https://radiant-retreat-40420.herokuapp.com/users/${user.email}`)
       .then((res) => res.json())
       .then((data) => setAdmin(data.admin));
   }, [user.email]);
@@ -138,11 +138,11 @@ const useFirebase = () => {
         setIsLoading(false);
       });
   };
-  ////////////////////////// Save User To database //////////////////////////////
+  ////////////////////////// Save User To database /////////////////////////
 
   const saveUserToDatabase = (email, displayName) => {
     const user = { email, displayName };
-    fetch("https://fathomless-shelf-34125.herokuapp.com/users", {
+    fetch("https://radiant-retreat-40420.herokuapp.com/users", {
       method: "POST",
       headers: {
         "content-type": "application/json",
@@ -150,12 +150,13 @@ const useFirebase = () => {
       body: JSON.stringify(user),
     }).then();
   };
-  ///////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////
 
-  ///////////////////////// Save Google User To database   ////////////////////////////////
+  
+///////////////////////// Save Google User To database   //////////////////
   const saveGoogleUserToDatabase = (email, displayName) => {
     const user = { email, displayName };
-    fetch("https://fathomless-shelf-34125.herokuapp.com/users", {
+    fetch("https://radiant-retreat-40420.herokuapp.com/users", {
       method: "PUT",
       headers: {
         "content-type": "application/json",

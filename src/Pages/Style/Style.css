@@ -250,3 +250,31 @@ border: 1px solid 	#ff8080;
     background-color:#ff4d4d;
     
 }
+
+.doctor-img{
+   height: 250px;
+}
+
+.doctor-cart-bg{
+    /* background-color: #006576; */
+    color: #006576;
+}
+
+.bookAppointmentBtn{
+    width: 100%;
+    border: none;
+    background-color:#006576 ;
+    color: white;
+    font-weight: 700;
+    padding: 5px 10px;
+    /* border-radius: 5px; */
+
+}
+
+.partner-picture{
+    border: 1px solid rgb(0, 132, 255);
+    border-radius: 5px;
+    padding: 10px;
+    width: 350px ;
+    height:450px;
+}
